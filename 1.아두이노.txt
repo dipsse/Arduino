@@ -1,0 +1,28 @@
+##. 아두이노 설치
+
+1. 아두이노 사이트 접속
+    https://www.arduino.cc 접속
+
+2. 메뉴얼 설치파일 다운로드
+    상단메뉴 [SOFWARE]-[Windws Zip file] 클릭 하면 zip파일 다운로드
+    ex) arduino-1.8.19-windows.zip파일
+
+3. 설치파일 zip파일 압축 풀기
+
+4. USB 드리이버 설치
+    [drivers] 폴더 <dpinst-amd64.exe> 파일 실행
+
+
+##. 아두이노 연결
+1. 아두이노 USB <> PC에 연결
+   
+2. 아두이노 IDE 실행
+    C:\Users\hs2\Downloads\arduino-1.8.19-windows\arduino-1.8.19 설치 경로
+    arduino.exe 실행파일
+
+3. 아두이노 보드 설정
+    [장치 관리자]-포트(COM & LPT)-Arduino Uno(COM3) 확인
+
+4. 아두이노 IDE 포트 연결
+    [툴]-[포트]CoM3 선택
+
